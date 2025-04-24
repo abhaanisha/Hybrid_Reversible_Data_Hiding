@@ -44,16 +44,16 @@ The method was tested on several standard test images with different types of co
 ### Visual Results
 
 #### Barbara Image Results
-![Barbara Results](barbara_results.png)
+![Barbara Results](Figure/barbara_results.png)
 
 #### Boat Image Results
-![Boat Results](boat_results.png)
+![Boat Results](Figure/boat_results.png)
 
 #### Lena Image Results
-![Lena Results](lena_results.png)
+![Lena Results](Figure/lena_results.png)
 
 #### Pentagon Image Results
-![Pentagon Results](pentagon_results.png)
+![Pentagon Results](Figure/pentagon_results.png)
 
 As shown in the images above, each test case includes:
 - Original cover image
