@@ -1,1 +1,1 @@
-# Hybrid_Reversible_Data_Hiding
+# Hybrid Reversible Data Hiding
